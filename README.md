@@ -1,6 +1,6 @@
 # Chess-Project
 
-![chess](Pics/chess_3.png)
+![chess](/Pics/chess_3.PNG)
 
 ## Goals
 
